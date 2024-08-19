@@ -1,5 +1,7 @@
 Este repositorio contiene el trabajo "Evaluación del Impacto de un Programa de Fortalecimiento Educativo sobre el Logro Académico en Estudiantes de Bachillerato en las Zonas Rurales de Antioquia". El estudio fue realizado por Julián Gallego Villa y Luis Alejandro Quimbayo como parte del curso de Evaluación de Impacto en la Universidad de los Andes. El objetivo principal es evaluar la efectividad de un programa de subsidio a la oferta implementado en las instituciones educativas rurales no certificadas del departamento de Antioquia, midiendo su impacto en los resultados de la prueba de Estado Saber11. El análisis se realizó utilizando metodologías de diferencias-en-diferencias y emparejamiento por puntaje de propensión (PSM).
 
+Este trabajo se expondrá en el Congreso Latinoamericano de Educación Superior. Educación con sentido y pertinencia 2024, que se realizará el 1 de octubre de 2024 en San José, Costa Rica.
+
 ## Contenido
 - **Documento PDF:** Informe completo de la evaluación del impacto.
 - **Descripción de los Datos:** 
